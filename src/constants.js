@@ -143,7 +143,7 @@ export const projects = [
       "Tailwind CSS",
       "JavaScript",
     ],
-    github: "https://github.com/KalyaniKadu-18/Hotel-Booking-FullStack-Project",
+    github:"https://github.com/KalyaniKadu-18/Hotel_Booking_Fullstack_Project",
   },
   {
     id: 2,
